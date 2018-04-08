@@ -1,7 +1,10 @@
 # Tic-Tac-Toe
 Tic Tac Toe game in Python
 
-Jupyter notebook containing Python code for a Tic Tac Toe game
+2 separate files: a .py file with Python code and a .ipynb Jupyter notebook file.  Both have identical code just in different formats.
 
-.py file with Python code for a Tic Tac Toe game
-contains the same code as the Jupyter notebook but different file format
+The program contains several functions that when run together allow two players to play Tic Tac Toe.
+
+The first function creates and sets up the board
+
+The second function...
